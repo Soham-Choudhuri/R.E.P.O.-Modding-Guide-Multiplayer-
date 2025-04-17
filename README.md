@@ -4,8 +4,6 @@ This modpack aims to fix & improve the multiplayer experience of R.E.P.O.
 
 Includes BepInEx (Modloader for R.E.P.O.)
 
-Plugins to enhance the gameplay.
-
 Run Steam in background to play Multiplayer.
 
 # Important
