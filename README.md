@@ -11,3 +11,5 @@ Run Steam in background to play Multiplayer.
 Delete SharedUpgrades.dll & SyncHostUpgrades.dll if you are not the host.
 
 List of mods used in this modpack will be shown here when updated.
+
+Game Version: 0.1.2
