@@ -8,4 +8,6 @@ Run Steam in background to play Multiplayer.
 
 # Important
 
-Read the .txt file in BepInEx/plugins before playing the game.
+Delete SharedUpgrades.dll & SyncHostUpgrades.dll if you are not the host.
+
+List of included mods will be shown here when updated.
